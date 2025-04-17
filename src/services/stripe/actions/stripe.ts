@@ -22,7 +22,7 @@ export async function getClientSessionSecret(
       {
         quantity: 1,
         price_data: {
-          currency: "usd",
+          currency: "bdt",
           product_data: {
             name: product.name,
             images: [
