@@ -35,7 +35,7 @@
     "dotenv": "^16.5.0",
     "drizzle-orm": "^0.38.4",
     "lucide-react": "^0.471.1",
-    "next": "^15.2.0-canary.11",
+    "next": "15.2.0-canary.11",
     "pg": "^8.14.1",
     "postgres": "^3.4.5",
     "react": "^19.1.0",
